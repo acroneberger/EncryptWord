@@ -1,0 +1,7 @@
+C:\Users\Andrew\source\repos\ClassImplementation\ClassImplementation\obj\Debug\ClassImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\ClassImplementation\ClassImplementation\bin\Debug\ClassImplementation.exe.config
+C:\Users\Andrew\source\repos\ClassImplementation\ClassImplementation\bin\Debug\ClassImplementation.exe
+C:\Users\Andrew\source\repos\ClassImplementation\ClassImplementation\bin\Debug\ClassImplementation.pdb
+C:\Users\Andrew\source\repos\ClassImplementation\ClassImplementation\obj\Debug\ClassImplementation.exe
+C:\Users\Andrew\source\repos\ClassImplementation\ClassImplementation\obj\Debug\ClassImplementation.pdb
+C:\Users\Andrew\source\repos\ClassImplementation\ClassImplementation\obj\Debug\ClassImplementation.csprojResolveAssemblyReference.cache
